@@ -1,0 +1,3 @@
+to initialize git : git init
+to colne repo from remote to local : git clone 
+
