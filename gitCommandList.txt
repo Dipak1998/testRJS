@@ -1,3 +1,12 @@
 to initialize git : git init
+
+to see status : git status
+
+to add files : git add <file names> or git add . (for add all files at a time)
+
+to commit changes : git commit -m "your message"
+
+to upload/ push from local to remote : git push  
 to colne repo from remote to local : git clone 
+
 
